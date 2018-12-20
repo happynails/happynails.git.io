@@ -167,8 +167,8 @@ margin: auto;
 .thumbnail:hover {
     position:relative;
     top:-25px;
-    left:-35px;
-    width:350px;
+    right:-35px;
+    width:450px;
     height:auto;
     display:block;
     z-index:999;
