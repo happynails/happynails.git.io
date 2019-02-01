@@ -69,13 +69,13 @@ body {
   
   .welcome{
 	  background-color:#FFF;
-	  /*opacity:0.4;*/
+	  opacity:0.2;
 	  position:inherit;
 	  width:100%;
 	  z-index:3;
 	  }
 	  
-	.welcome > p {
+	#tb {
 		font-family:"caviar Dreams";
 		font-weight:bolder;
 		font-size:18px;
