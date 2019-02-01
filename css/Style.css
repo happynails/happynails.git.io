@@ -68,8 +68,8 @@ body {
 	  }
   
   .welcome{
-	  /*background-color:#FFF;
-	  opacity:0.75;*/
+	  background-color:#FFF;
+	  opacity:0.75;
 	  position:inherit;
 	  width:100%;
 	  z-index:3;
