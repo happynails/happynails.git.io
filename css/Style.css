@@ -69,7 +69,7 @@ body {
   
   .welcome{
 	  background-color:#FFF;
-	  opacity:0.4;
+	  /*opacity:0.4;*/
 	  position:inherit;
 	  width:100%;
 	  z-index:3;
