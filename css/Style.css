@@ -75,12 +75,13 @@ body {
 	  z-index:3;
 	  }
 	  
-	#tb {
+	#tb > p {
 		font-family:"caviar Dreams";
 		text-align:center;
-		font-size:20px;
-		color: #EFFF14;
-		
+		font-size:30px;
+		color: #3B29FF;
+		padding:auto;
+		margin:auto;
 		}
 	
 
